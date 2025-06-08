@@ -23,4 +23,4 @@ jobs:
           theme: 'light'
           output_dir: 'visual'
           feather_city_version: '0.1.2'
-          color_palette: "oranges"
+          color_palette: "rdPu"
